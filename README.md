@@ -1,0 +1,3 @@
+# Chess
+ Simple Chess in java
+This Game is just the same as basic chess. First, when you are asked for it, you will type in the position of the piece. The position is written by first writingthe letter of the column and then the number of the row. For example, a5 or e2. Then, when prompted, select the position you want to move the piece in the same way. If you selected the wrong piece at first, you can press 'r' when it asks you where to move it to select a different piece. This program does not have the en passant move programmed so it will not work. You can castle. It might be buggy since I did not get to test run as much as I wanted.
